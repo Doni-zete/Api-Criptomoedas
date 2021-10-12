@@ -20,7 +20,7 @@
 * OBS: É necessário ter o git instalado em sua máquina
 * Executar o Seguinte comando no seu **Terminal** ou no **CMD**:
 
-  ## `git clone https://github.com/Doni-zete/Netflix-Clone.git`
+  ## `git clone https://github.com/Doni-zete/Api-Criptomoedas.git`
         
         
         
