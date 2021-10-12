@@ -24,7 +24,4 @@
         
         
         
-      
-
-   ### Link para acessar a copia https://doni-zete.github.io/Netflix-Clone/
 
