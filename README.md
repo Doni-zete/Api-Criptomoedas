@@ -10,7 +10,7 @@
 
 :hammer_and_wrench: **Tecnologias Utilizadas**
 * HTML5
-* CSS3
+* Bootstrap
 * JavaScript
 * Moesif Orign
 * https://pro.coinmarketcap.com/account
