@@ -1,7 +1,7 @@
 
  # :computer:  Requisitando dados de uma API
 ######  Layout do Projeto Concluído
-![Pagina Inicial Instagram](https://github.com/Doni-zete/Api-Criptomoedas/blob/main/cripto.gif)
+![Api-Criptomoedas](https://github.com/Doni-zete/Api-Criptomoedas/blob/main/cripto.gif)
 
 ## :rocket: Sobre o desafio
 
